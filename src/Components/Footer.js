@@ -5,13 +5,13 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const Footer = () => {
   return (
     <div className="flex flex-col w-full text-white items-center justify-center py-5 bg-[#02060c]">
-        <p className="mt-3 justify-between">❤️ Made with Love for Food by Varun 💛</p>
+        <p className="mt-3 justify-between">❤️ Made with Love 💛</p>
         <div className="my-3 flex items-center justify-center">
           <a
             className="ml-3 text-4xl transition-all hover:text-linkedIn"
-            href="https://www.linkedin.com/in/varunpelluru"
+            href="https://www.linkedin.com/in/ayman-el-attar-50a37620a/"
             target="_blank"
-            title="Varun Pelluru's Linkedin Profile"
+            title="Ayman ELATTAR Linkedin Profile"
           >
             <FontAwesomeIcon icon={faLinkedin}/>
           </a>
@@ -19,28 +19,21 @@ const Footer = () => {
             className="ml-3 text-4xl transition-all hover:text-github"
             href="https://github.com/varunmsd99"
             target="_blank"
-            title="Varun Pelluru's GitHub repo"
+            title="Ayman ELATTAR GitHub repo"
           >
             <FontAwesomeIcon icon={faGithub}/>
           </a>
           <a
             className="ml-3 text-3xl transition-all hover:text-twitter"
-            href="https://twitter.com/varun_vsgvk"
+            href="https://x.com/JackCreative__"
             target="_blank"
-            title="Varun Pelluru's Twitter Profile"
+            title="Ayman ELATTAR Twitter Profile"
           >
             <FontAwesomeIcon icon={faXTwitter}/>
           </a>
-          <a
-            className="ml-3 text-3xl transition-all hover:text-discord"
-            href="https://discordapp.com/users/535798915518169094"
-            target="_blank"
-            title="Varun Pelluru's Discord Profile"
-          >
-            <FontAwesomeIcon icon={faDiscord}/>
-          </a>
+      
         </div>
-        <p className="pb-10" title="Just Kiddin' There is no Copyright for this">©️ 2023 FoodVilla</p>
+        <p className="pb-10" title="Just Kiddin' There is no Copyright for this">©️ 2025 Namaste Restaurant </p>
     </div>
   );
 };
