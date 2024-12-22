@@ -1,5 +1,5 @@
 <div align="center" id="#readme-top">
-  <h1><b>Food Villa - A Swiggy inspired food ordering platform</b></h3>
+  <h1><b>Namaste Restaurant  - A Swiggy inspired food ordering platform</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -11,7 +11,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 🥘 Food Villa <a name="about"></a>
+# 🥘 Namaste Restaurant  <a name="about"></a>
 
 This is a Learning based project on React.js. This react app is built using the live Swiggy API's and various other trending technologies like Tailwind CSS as a Styling Framework, Redux for state management, React Router DOM for page navigation, Parcel as a bundler, Babel for transpiling code and many more.
 
@@ -36,4 +36,4 @@ This is a Learning based project on React.js. This react app is built using the 
 
 ### 🚀 Live Demo <a name="live-demo"></a>
 
-- Live Website Preview : <a href="https://restaurantnamaste.netlify.app/" target="_blank">Food-Villa-react-app</a>
+- Live Website Preview : <a href="https://restaurantnamaste.netlify.app/" target="_blank">Namaste Restaurant -react-app</a>
